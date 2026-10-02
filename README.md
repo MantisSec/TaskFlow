@@ -17,6 +17,14 @@ A calm Windows workspace for your tasks, plans, and next steps.
 
 ---
 
+<div align="center">
+
+[![Download TaskFlow](https://img.shields.io/badge/⬇_Download_TaskFlow-Windows_64--bit-9FB8A5?style=for-the-badge)](https://github.com/MantisSec/TaskFlow/releases/latest/download/TaskFlow.exe)
+
+Download the installer, open **TaskFlow.exe**, and follow the setup instructions.
+
+</div>
+
 ## 🌿 A calmer way to stay organized
 
 TaskFlow brings your daily tasks, deadlines, and projects into one clean desktop application.
